@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 ```rust
 struct MyProfile {
@@ -16,18 +16,18 @@ fn about_me() -> MyProfile {
 }
 ```
 
-## Technology stack
+### About me
 
 - **OS:** Linux: Archlinux, [LFA](https://github.com/Linux-for-ARM)
 - **Language:** Rust, Python, BASH
 - **PC:** ARM (AArch64 OrangePi); x86_64
 
-## My projects
+### My projects
 
 - [Linux for ARM (LFA)](https://github.com/Linux-for-ARM) - Russian-language guide to building your own embedded Linux system for ARM computers from scratch from source code;
 - [Resistor](https://github.com/mskrasnov/resistor) - program for calculating resistance of resistors by their color coding (Rust);
 
-## Contact me
+### Contact me
 
 - [Telegram (PM)](https://t.me/brezhnev_zhiv)
 - [Telegram (LFA chat)](https://t.me/lfa_chat)
