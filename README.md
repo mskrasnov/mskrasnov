@@ -25,6 +25,7 @@ fn about_me() -> MyProfile {
 ### My projects
 
 - [Linux for ARM (LFA)](https://github.com/Linux-for-ARM) - Russian-language guide to building your own embedded Linux system for ARM computers from scratch from source code;
+- [SWF - Simple Weather Forecast](https://github.com/mskrasnov/swf) - console program to get current information about weather in the specified location (Rust);
 - [Resistor](https://github.com/mskrasnov/resistor) - program for calculating resistance of resistors by their color coding (Rust);
 
 ### Contact me
