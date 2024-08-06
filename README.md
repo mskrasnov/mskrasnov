@@ -9,7 +9,7 @@ struct MyProfile {
 
 fn about_me() -> MyProfile {
     MyProfile {
-        age: 17,
+        age: 0,
         location: "Russia".to_string(),
         occupation: "I don't know what I do. I exist.".to_string(),
     }
