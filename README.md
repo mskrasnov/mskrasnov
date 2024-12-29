@@ -6,8 +6,8 @@ Student (first course) from Russia. I study programming languages C++, Rust; kno
 
 - **City:** Dzerzhinsk;
 - **Languages:** Rust, Python;
-- **OS:** Archlinux + Wayland + GNOME Shell; [LFA](https://linux-for-arm.github.io);
-- **PC:** ARM (AArch64 Orange Pi 3 LTS), x86_64 Samsung laptop;
+- **OS:** Windows 10; Fedora + Wayland + GNOME Shell; [LFA](https://linux-for-arm.github.io);
+- **PC:** ARM (AArch64 Orange Pi 3 LTS), x86_64 Lenovo Ideapad 530S;
 
 ### Skills
 
