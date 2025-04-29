@@ -34,14 +34,16 @@ Simple cross-platform worktime tracker. It periodically reminds users to take br
 
 ([GitHub](https://github.com/mskrasnov/ice))
 
-Program to get information about weather in the specified (or autodetected!) location. Originally writes for my Orange Pi SBC.
+Program to get information about weather in the specified location. Originally writes for my Orange Pi SBC.
 
 <img src="https://github.com/mskrasnov/ice/raw/master/assets/ice.png" width=40%>
 
 - Rust + iced;
-- Autodetect location (IP);
+- Minimalistic UI;
+- Other functions/features coming soon!
+<!-- - Autodetect location (IP);
 - NetworkManager integration;
-- Optimized for single-board computers (SBC).
+- Optimized for single-board computers (SBC).-->
 
 ### 3. Resistor
 
