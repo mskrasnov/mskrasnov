@@ -5,7 +5,7 @@
 
 ## 💡 About me
 
-Student (first course) from Russia, Dzerzhinsk. I have experience in creating cross-platform applications (written in Rust) that can run on Windows and Linux.
+Student (second course) from Russia, Dzerzhinsk. I have experience in creating cross-platform applications (written in Rust) that can run on Windows and Linux.
 
 **My skills:**
 
@@ -18,7 +18,7 @@ Student (first course) from Russia, Dzerzhinsk. I have experience in creating cr
 
 ### 1. TimeKeeper
 
-([GitHub](https://github.com/TimeKeeperSoft/TimeKeeper))
+([GitHub](https://github.com/TimeKeeperSoft/TimeKeeper) | [crates.io](https://crates.io/crates/time_keeper))
 
 Simple cross-platform worktime tracker. It periodically reminds users to take breaks while working on their computers.
 
@@ -45,9 +45,11 @@ Program to get information about weather in the specified location. Originally w
 - NetworkManager integration;
 - Optimized for single-board computers (SBC).-->
 
+> **NOTE:** I have started a complete redesign of this program. I started, but I never finished.
+
 ### 3. Resistor
 
-([GitHub](https://github.com/mskrasnov/resistor))
+([GitHub](https://github.com/mskrasnov/resistor) | [crates.io](https://crates.io/crates/resistor-tui))
 
 Resistor calculator.
 
@@ -56,13 +58,7 @@ Resistor calculator.
 - Two versions: GUI (iced) and CLI ([cursive](https://crates.io/crates/cursive));
 - Simplicity and educational value.
 
-## 🎯 Objectives
-
-- Develop in **system programming** (Rust, C++)
-- Master **mobile development** (Kotlin, Android)
-- Open-source contributing
-
 ## 🔗 Contact me
 
 - **GitHub:** <https://github.com/mskrasnov>
-- **Email:** michail383krasnov@mail.ru
+- **Email:** mskrasnov07@ya.ru
