@@ -16,7 +16,18 @@ Student (second course) from Russia, Dzerzhinsk. I have experience in creating c
 
 ## 🚀 My projects
 
-### 1. TimeKeeper
+### 1. Ferrix
+
+([GitHub](https://github.com/mskrasnov/Ferrix))
+
+Simple system monitor for Linux.
+
+<img src="https://raw.githubusercontent.com/mskrasnov/Ferrix/refs/heads/master/screens/screen2.png" width="40%">
+
+- Rust + [iced](https://iced.rs);
+- Simple and minimalistic UI;
+
+### 2. TimeKeeper
 
 ([GitHub](https://github.com/TimeKeeperSoft/TimeKeeper) | [crates.io](https://crates.io/crates/time_keeper))
 
@@ -30,7 +41,7 @@ Simple cross-platform worktime tracker. It periodically reminds users to take br
 - Minimalistic UI;
 - Lightweight!
 
-### 2. ice
+### 3. ice
 
 ([GitHub](https://github.com/mskrasnov/ice))
 
@@ -47,7 +58,7 @@ Program to get information about weather in the specified location. Originally w
 
 > **NOTE:** I have started a complete redesign of this program. I started, but I never finished.
 
-### 3. Resistor
+### 4. Resistor
 
 ([GitHub](https://github.com/mskrasnov/resistor) | [crates.io](https://crates.io/crates/resistor-tui))
 
