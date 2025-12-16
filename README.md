@@ -1,7 +1,7 @@
 # 👋 Michail Krasnov
 
 📍 Student | I study C++, know Python and Rust at the elementary level.
-<br>📧 [Email](mailto:michail383krasnov@mail.ru) | 🔗 [GitHub](https://github.com/mskrasnov)
+<br>📧 [Email](mailto:mskrasnov07@ya.ru) | 🔗 [GitHub](https://github.com/mskrasnov)
 
 ## 💡 About me
 
@@ -12,20 +12,23 @@ Student (second course) from Russia, Dzerzhinsk. I have experience in creating c
 - 🦀 **Rust:** [iced](https://iced.rs) (pure Rust GUI library), `reqwest`, `tokio`, `serde`
 - 🐍 **Python:** simple CLI-utilities, automatization scripts
 - 🌍 **English:** my English is very bad :-(
-- 🛠 `git`, Linux
+- 🛠  **Other:** `git`, Linux
 
 ## 🚀 My projects
 
-### 1. Ferrix
+### 1. FSM
 
 ([GitHub](https://github.com/mskrasnov/Ferrix))
 
-Simple system monitor for Linux.
+This is my current project. FSM (Ferrix System Monitor) is a simple system monitor for Linux.
 
 <img src="https://raw.githubusercontent.com/mskrasnov/Ferrix/refs/heads/master/screens/screen2.png" width="40%">
 
+<img src="https://raw.githubusercontent.com/mskrasnov/Ferrix/refs/heads/master/screens/screen22.png" width="40%">
+
 - Rust + [iced](https://iced.rs);
 - Simple and minimalistic UI;
+- Simple [Hardinfo](https://hardinfo2.org/) analogue.
 
 ### 2. TimeKeeper
 
@@ -41,24 +44,7 @@ Simple cross-platform worktime tracker. It periodically reminds users to take br
 - Minimalistic UI;
 - Lightweight!
 
-### 3. ice
-
-([GitHub](https://github.com/mskrasnov/ice))
-
-Program to get information about weather in the specified location. Originally writes for my Orange Pi SBC.
-
-<img src="https://github.com/mskrasnov/ice/raw/master/assets/ice.png" width=40%>
-
-- Rust + iced;
-- Minimalistic UI;
-- Other functions/features coming soon!
-<!-- - Autodetect location (IP);
-- NetworkManager integration;
-- Optimized for single-board computers (SBC).-->
-
-> **NOTE:** I have started a complete redesign of this program. I started, but I never finished.
-
-### 4. Resistor
+### 3. Resistor
 
 ([GitHub](https://github.com/mskrasnov/resistor) | [crates.io](https://crates.io/crates/resistor-tui))
 
@@ -72,4 +58,5 @@ Resistor calculator.
 ## 🔗 Contact me
 
 - **GitHub:** <https://github.com/mskrasnov>
+- **Telegram:** [@brezhnev_zhiv](https://t.me/brezhnev_zhiv)
 - **Email:** mskrasnov07@ya.ru
