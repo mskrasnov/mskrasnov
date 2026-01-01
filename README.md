@@ -22,9 +22,7 @@ Student (second course) from Russia, Dzerzhinsk. I have experience in creating c
 
 This is my current project. FSM (Ferrix System Monitor) is a simple system monitor for Linux.
 
-<img src="https://raw.githubusercontent.com/mskrasnov/Ferrix/refs/heads/master/screens/screen5.png" width="40%">
-
-<img src="https://raw.githubusercontent.com/mskrasnov/Ferrix/refs/heads/master/screens/screen2.png" width="40%">
+<img src="https://raw.githubusercontent.com/mskrasnov/Ferrix/refs/heads/master/screens/screen5.png" width="40%"> | <img src="https://raw.githubusercontent.com/mskrasnov/Ferrix/refs/heads/master/screens/screen2.png" width="40%">
 
 - Rust + [iced](https://iced.rs);
 - Simple and minimalistic UI;
