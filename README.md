@@ -1,7 +1,7 @@
 # 👋 Michail Krasnov
 
 📍 Student | I study C++, know Python and Rust at the elementary level.
-<br>📧 [Email](mailto:mskrasnov07@ya.ru) | 🔗 [GitHub](https://github.com/mskrasnov)
+<br>📧 [Email](mailto:mskrasnov07@ya.ru) | 🔗 [GitHub](https://github.com/mskrasnov) | 🔗 [GitVerse (secondary account)](https://gitverse.ru/mskrasnov)
 
 ## 💡 About me
 
@@ -12,19 +12,19 @@ Student (second course) from Russia, Dzerzhinsk. I have experience in creating c
 - 🦀 **Rust:** [iced](https://iced.rs) (pure Rust GUI library), `reqwest`, `tokio`, `serde`
 - 🐍 **Python:** simple CLI-utilities, automatization scripts
 - 🌍 **English:** my English is very bad :-(
-- 🛠  **Other:** `git`, Linux
+- 🛠  **Other:** `git`, Linux, Excel; Power BI at the elementary level
 
 ## 🚀 My projects
 
 ### 1. FSM
 
-([GitHub](https://github.com/mskrasnov/Ferrix))
+([GitHub](https://github.com/mskrasnov/FSM) | [Mirror on GitVerse](https://gitverse.ru/mskrasnov/FSM) | [crates.io](https://crates.io/crates/ferrix-app) | [Boosty](https://boosty.to/mskrasnov))
 
 This is my current project. FSM (Ferrix System Monitor) is a simple system monitor for Linux.
 
-<img src="https://raw.githubusercontent.com/mskrasnov/Ferrix/refs/heads/master/screens/screen2.png" width="40%">
+<img src="https://raw.githubusercontent.com/mskrasnov/Ferrix/refs/heads/master/screens/screen5.png" width="40%">
 
-<img src="https://raw.githubusercontent.com/mskrasnov/Ferrix/refs/heads/master/screens/screen22.png" width="40%">
+<img src="https://raw.githubusercontent.com/mskrasnov/Ferrix/refs/heads/master/screens/screen2.png" width="40%">
 
 - Rust + [iced](https://iced.rs);
 - Simple and minimalistic UI;
@@ -50,9 +50,9 @@ Simple cross-platform worktime tracker. It periodically reminds users to take br
 
 Resistor calculator.
 
-<img src="https://github.com/mskrasnov/resistor/raw/master/data/screenshot_tui.png" width=40%>
+<img src="https://github.com/mskrasnov/resistor/raw/master/data/screenshot_tui.png" width=50%>
 
-- Two versions: GUI (iced) and CLI ([cursive](https://crates.io/crates/cursive));
+- Windows and Linux support;
 - Simplicity and educational value.
 
 ## 🔗 Contact me
