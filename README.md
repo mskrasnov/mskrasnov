@@ -11,8 +11,8 @@ Student (second course) from Russia, Dzerzhinsk. I have experience in creating c
 
 - 🦀 **Rust:** [iced](https://iced.rs) (pure Rust GUI library), `reqwest`, `tokio`, `serde`
 - 🐍 **Python:** simple CLI-utilities, automatization scripts
-- 🌍 **English:** my English is very bad :-(
-- 🛠  **Other:** `git`, Linux, Excel; Power BI at the elementary level
+- 🌍 **English:** my English is bad :-(
+- 🛠  **Other:** `git`, Linux, Excel (+ VBA); Power BI at the elementary level
 
 ## 🚀 My projects
 
@@ -22,7 +22,7 @@ Student (second course) from Russia, Dzerzhinsk. I have experience in creating c
 
 This is my current project. FSM (Ferrix System Monitor) is a simple system monitor for Linux.
 
-<img src="https://raw.githubusercontent.com/mskrasnov/Ferrix/refs/heads/master/screens/screen5.png" width="40%"> | <img src="https://raw.githubusercontent.com/mskrasnov/Ferrix/refs/heads/master/screens/screen2.png" width="40%">
+<img src="https://mskrasnov.github.io/ferrix/screens/sysmon-new.png" width="40%"> | <img src="https://mskrasnov.github.io/ferrix/screens/proc-freq.png" width="40%">
 
 - Rust + [iced](https://iced.rs);
 - Simple and minimalistic UI;
@@ -34,7 +34,7 @@ This is my current project. FSM (Ferrix System Monitor) is a simple system monit
 
 Simple cross-platform worktime tracker. It periodically reminds users to take breaks while working on their computers.
 
-<img src="https://timekeepersoft.github.io/assets/v0.3.0/main_win.png" width=40%>
+<img src="https://timekeepersoft.github.io/assets/v0.3.0/main_win.png" width="40%">
 
 - Rust + [iced](https://iced.rs) ([link to the crates.io page](https://crates.io/crates/time_keeper));
 - Windows and Linux support;
@@ -42,13 +42,23 @@ Simple cross-platform worktime tracker. It periodically reminds users to take br
 - Minimalistic UI;
 - Lightweight!
 
-### 3. Resistor
+### 3. Linux for ARM (LFA)
+
+([GitHub](https://github.com/Linux-for-ARM/handbook) | [site](https://linux-for-arm.github.io/) | [read online](https://linux-for-arm.github.io/lfa/stable/index.html))
+
+Linux for ARM is a russian guide for building Linux system from scratch from source code for computers on the ARM architecture. Building of such a system is carried out by cross-compiling the source code of the necessary system components on a computer with the x86_64 architecture for a computer with one of the ARM family architectures, for example, for AArch64.
+
+- Russian language;
+- Support for multiple ARM family architectures;
+- Online/offile HTML and PDF versions of guide;
+
+### 4. Resistor
 
 ([GitHub](https://github.com/mskrasnov/resistor) | [crates.io](https://crates.io/crates/resistor-tui))
 
 Resistor calculator.
 
-<img src="https://github.com/mskrasnov/resistor/raw/master/data/screenshot_tui.png" width=50%>
+<img src="https://github.com/mskrasnov/resistor/raw/master/data/screenshot_tui.png" width="50%">
 
 - Windows and Linux support;
 - Simplicity and educational value.
