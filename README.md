@@ -68,3 +68,7 @@ Resistor calculator.
 - **GitHub:** <https://github.com/mskrasnov>
 - **Telegram:** [@brezhnev_zhiv](https://t.me/brezhnev_zhiv)
 - **Email:** mskrasnov07@ya.ru
+
+**Support me**
+
+You can send me a donation on [**Boosty**](https://boosty.to/mskrasnov).
