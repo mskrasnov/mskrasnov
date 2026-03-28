@@ -11,8 +11,9 @@ Student (second course) from Russia, Dzerzhinsk. I have experience in creating c
 
 - 🦀 **Rust:** [iced](https://iced.rs) (pure Rust GUI library), `reqwest`, `tokio`, `serde`
 - 🐍 **Python:** simple CLI-utilities, automatization scripts
+- 🐧 **Linux:** simple system utilities (see the "FSM" and "LFA" sections below), `bash`; was building my own LFS distribution;
 - 🌍 **English:** my English is bad :-(
-- 🛠  **Other:** `git`, Linux, Excel (+ VBA); Power BI at the elementary level
+- 🛠 **Other:** `git`, Linux, Excel (+ VBA); Power BI at the elementary level
 
 ## 🚀 My projects
 
@@ -20,7 +21,7 @@ Student (second course) from Russia, Dzerzhinsk. I have experience in creating c
 
 ([GitHub](https://github.com/mskrasnov/FSM) | [Mirror on GitVerse](https://gitverse.ru/mskrasnov/FSM) | [crates.io](https://crates.io/crates/ferrix-app) | [Boosty](https://boosty.to/mskrasnov))
 
-This is my current project. FSM (Ferrix System Monitor) is a simple system monitor for Linux.
+This is my current project. FSM (Ferrix System Monitor) is a system profiling tool for Linux (similar to Hardinfo/HWInfo/AIDA64).
 
 <img src="https://mskrasnov.github.io/ferrix/screens/sysmon-new.png" width="40%"> | <img src="https://mskrasnov.github.io/ferrix/screens/proc-freq.png" width="40%">
 
@@ -32,7 +33,7 @@ This is my current project. FSM (Ferrix System Monitor) is a simple system monit
 
 ([GitHub](https://github.com/TimeKeeperSoft/TimeKeeper) | [crates.io](https://crates.io/crates/time_keeper))
 
-Simple cross-platform worktime tracker. It periodically reminds users to take breaks while working on their computers.
+Simple and crossplatform cross-platform worktime tracker. It periodically reminds users to take breaks while working on their computers.
 
 <img src="https://timekeepersoft.github.io/assets/v0.3.0/main_win.png" width="40%">
 
