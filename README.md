@@ -13,7 +13,7 @@ Student (second course) from Russia, Dzerzhinsk. I have experience in creating c
 - 🐍 **Python:** simple CLI-utilities, automatization scripts
 - 🐧 **Linux:** simple system utilities (see the "FSM" and "LFA" sections below), `bash`; was building my own LFS distribution;
 - 🌍 **English:** my English is bad :-(
-- 🛠 **Other:** `git`, Linux, Excel (+ VBA); Power BI at the elementary level
+- 🛠  **Other:** `git`, Linux, Excel (+ VBA); Power BI at the elementary level
 
 ## 🚀 My projects
 
@@ -67,7 +67,7 @@ Resistor calculator.
 ## 🔗 Contact me
 
 - **GitHub:** <https://github.com/mskrasnov>
-- **Telegram:** [@brezhnev_zhiv](https://t.me/brezhnev_zhiv)
+- **Telegram:** [@mmmiisha07](https://t.me/mmmiisha07)
 - **Email:** mskrasnov07@ya.ru
 
 **Support me**
