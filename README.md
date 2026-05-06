@@ -19,9 +19,7 @@ Student (second course) from Russia, Dzerzhinsk. I have experience in creating c
 
 ### 1. FSM
 
-([GitHub](https://github.com/mskrasnov/FSM) | [Mirror on GitVerse](https://gitverse.ru/mskrasnov/FSM) | [crates.io](https://crates.io/crates/ferrix-app) | [Boosty](https://boosty.to/mskrasnov))
-
-![Stars](https://img.shields.io/github/stars/mskrasnov/fsm?style=social) ![All downloads](https://img.shields.io/github/downloads/mskrasnov/fsm/total?color=red)
+([GitHub](https://github.com/mskrasnov/FSM) | [Mirror on GitVerse](https://gitverse.ru/mskrasnov/FSM) | [crates.io](https://crates.io/crates/ferrix-app) | [Boosty](https://boosty.to/mskrasnov)) | ![Stars](https://img.shields.io/github/stars/mskrasnov/fsm?style=social) | ![All downloads](https://img.shields.io/github/downloads/mskrasnov/fsm/total?color=red)
 
 This is my current project. FSM (Ferrix System Monitor) is a system profiling tool for Linux (similar to Hardinfo/HWInfo/AIDA64).
 
@@ -33,9 +31,7 @@ This is my current project. FSM (Ferrix System Monitor) is a system profiling to
 
 ### 2. TimeKeeper
 
-([GitHub](https://github.com/TimeKeeperSoft/TimeKeeper) | [crates.io](https://crates.io/crates/time_keeper))
-
-![Stars](https://img.shields.io/github/stars/TimeKeeperSoft/TimeKeeper?style=social) ![All downloads](https://img.shields.io/github/downloads/TimeKeeperSoft/TimeKeeper/total?color=red)
+([GitHub](https://github.com/TimeKeeperSoft/TimeKeeper) | [crates.io](https://crates.io/crates/time_keeper)) | ![Stars](https://img.shields.io/github/stars/TimeKeeperSoft/TimeKeeper?style=social) | ![All downloads](https://img.shields.io/github/downloads/TimeKeeperSoft/TimeKeeper/total?color=red)
 
 Simple and crossplatform cross-platform worktime tracker. It periodically reminds users to take breaks while working on their computers.
 
@@ -49,9 +45,7 @@ Simple and crossplatform cross-platform worktime tracker. It periodically remind
 
 ### 3. Linux for ARM (LFA)
 
-([GitHub](https://github.com/Linux-for-ARM/handbook) | [site](https://linux-for-arm.github.io/) | [read online](https://linux-for-arm.github.io/lfa/stable/index.html))
-
-![Stars](https://img.shields.io/github/stars/Linux-for-ARM/handbook?style=social) ![All downloads](https://img.shields.io/github/downloads/Linux-for-ARM/handbook/total?color=red)
+([GitHub](https://github.com/Linux-for-ARM/handbook) | [site](https://linux-for-arm.github.io/) | [read online](https://linux-for-arm.github.io/lfa/stable/index.html)) | ![Stars](https://img.shields.io/github/stars/Linux-for-ARM/handbook?style=social) | ![All downloads](https://img.shields.io/github/downloads/Linux-for-ARM/handbook/total?color=red)
 
 Linux for ARM is a russian guide for building Linux system from scratch from source code for computers on the ARM architecture. Building of such a system is carried out by cross-compiling the source code of the necessary system components on a computer with the x86_64 architecture for a computer with one of the ARM family architectures, for example, for AArch64.
 
@@ -61,9 +55,7 @@ Linux for ARM is a russian guide for building Linux system from scratch from sou
 
 ### 4. Resistor
 
-([GitHub](https://github.com/mskrasnov/resistor) | [crates.io](https://crates.io/crates/resistor-tui))
-
-![Stars](https://img.shields.io/github/stars/mskrasnov/resistor?style=social) ![All downloads](https://img.shields.io/github/downloads/mskrasnov/resistor/total?color=red)
+([GitHub](https://github.com/mskrasnov/resistor) | [crates.io](https://crates.io/crates/resistor-tui)) | ![Stars](https://img.shields.io/github/stars/mskrasnov/resistor?style=social) | ![All downloads](https://img.shields.io/github/downloads/mskrasnov/resistor/total?color=red)
 
 Resistor calculator.
 
