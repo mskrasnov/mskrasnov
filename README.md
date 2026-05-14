@@ -21,7 +21,7 @@ Student (second course) from Russia, Dzerzhinsk. I have experience in creating c
 
 ([GitHub](https://github.com/mskrasnov/FSM) | [Mirror on GitVerse](https://gitverse.ru/mskrasnov/FSM) | [crates.io](https://crates.io/crates/ferrix-app) | [Boosty](https://boosty.to/mskrasnov))
 
-![Stars](https://img.shields.io/github/stars/mskrasnov/fsm?style=social) ![All downloads](https://img.shields.io/github/downloads/mskrasnov/fsm/total?color=red)
+![Stars](https://img.shields.io/github/stars/mskrasnov/fsm?style=social) ![All downloads](https://img.shields.io/github/downloads/mskrasnov/fsm/total)
 
 This is my current project. FSM (Ferrix System Monitor) is a system profiling tool for Linux (similar to Hardinfo/HWInfo/AIDA64).
 
