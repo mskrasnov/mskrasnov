@@ -25,7 +25,7 @@ Student (second course) from Russia, Dzerzhinsk. I have experience in creating c
 
 This is my current project. FSM (Ferrix System Monitor) is a system profiling tool for Linux (similar to Hardinfo/HWInfo/AIDA64).
 
-<img src="https://mskrasnov.github.io/ferrix/screens/sysmon-new.png" width="40%"> | <img src="https://mskrasnov.github.io/ferrix/screens/firmware" width="40%">
+<img src="https://mskrasnov.github.io/ferrix/screens/sysmon-new.png" width="40%"> | <img src="https://mskrasnov.github.io/ferrix/screens/firmware.png" width="40%">
 
 - Rust + [iced](https://iced.rs);
 - Simple and minimalistic UI;
