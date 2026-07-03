@@ -5,7 +5,7 @@
 
 ## 💡 About me
 
-Student (second course) from Russia, Dzerzhinsk. I have experience in creating cross-platform applications (written in Rust) that can run on Windows and Linux.
+Student (third course) from Russia, Dzerzhinsk. I have experience in creating cross-platform applications (written in Rust) that can run on Windows and Linux.
 
 **My skills:**
 
