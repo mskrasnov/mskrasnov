@@ -1,7 +1,7 @@
 # 👋 Michail Krasnov
 
 📍 Student | I study C++, know Python and Rust at the elementary level.
-<br>📧 [Email](mailto:mskrasnov07@ya.ru) | 🔗 [GitHub](https://github.com/mskrasnov) | 🔗 [GitVerse (secondary account)](https://gitverse.ru/mskrasnov)
+<br>📧 [Email](mailto:mskrasnov07@ya.ru) | 🔗 [GitHub](https://github.com/mskrasnov) | 🔗 [GitVerse (secondary account)](https://gitverse.ru/mskrasnov) | 🖥️ [My dotfiles](https://github.com/mskrasnov/dotfiles)
 
 ## 💡 About me
 
