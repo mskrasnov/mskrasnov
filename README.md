@@ -1,11 +1,11 @@
 # 👋 Michail Krasnov
 
 📍 Student | I study C++, know Python and Rust at the elementary level.
-<br>📧 [Email](mailto:mskrasnov07@ya.ru) | 🔗 [GitHub](https://github.com/mskrasnov) | 🔗 [GitVerse (secondary account)](https://gitverse.ru/mskrasnov) | 🖥️ [My dotfiles](https://github.com/mskrasnov/dotfiles)
+<br>🔗 [GitHub](https://github.com/mskrasnov) | 🖥️ [My dotfiles](https://github.com/mskrasnov/dotfiles)
 
 ## 💡 About me
 
-Student (third course) from Russia, Dzerzhinsk. I have experience in creating cross-platform applications (written in Rust) that can run on Windows and Linux.
+Student (third course). I have experience in creating cross-platform applications (written in Rust) that can run on Windows and Linux.
 
 **My skills:**
 
@@ -19,7 +19,7 @@ Student (third course) from Russia, Dzerzhinsk. I have experience in creating cr
 
 ### 1. FSM
 
-([GitHub](https://github.com/mskrasnov/FSM) | [Mirror on GitVerse](https://gitverse.ru/mskrasnov/FSM) | [crates.io](https://crates.io/crates/ferrix-app) | [Boosty](https://boosty.to/mskrasnov))
+([GitHub](https://github.com/mskrasnov/FSM) | [crates.io](https://crates.io/crates/ferrix-app) | [Boosty](https://boosty.to/mskrasnov))
 
 ![Stars](https://img.shields.io/github/stars/mskrasnov/fsm?style=social) ![All downloads](https://img.shields.io/github/downloads/mskrasnov/fsm/total)
 
@@ -76,7 +76,6 @@ Resistor calculator.
 
 - **GitHub:** <https://github.com/mskrasnov>
 - **Telegram:** [@mmmiisha07](https://t.me/mmmiisha07)
-- **Email:** mskrasnov07@ya.ru
 
 **Support me**
 
