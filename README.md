@@ -31,7 +31,7 @@ This is my current project. FSM (Ferrix System Monitor) is a system profiling to
 - Simple and minimalistic UI;
 - Simple [Hardinfo](https://hardinfo2.org/) analogue.
 
-### 2. TimeKeeper
+<!--### 2. TimeKeeper
 
 ([GitHub](https://github.com/TimeKeeperSoft/TimeKeeper) | [crates.io](https://crates.io/crates/time_keeper))
 
@@ -45,9 +45,9 @@ Simple and crossplatform cross-platform worktime tracker. It periodically remind
 - Windows and Linux support;
 - i18n support (Russian, English);
 - Minimalistic UI;
-- Lightweight!
+- Lightweight!-->
 
-### 3. Linux for ARM (LFA)
+### 2. Linux for ARM (LFA)
 
 ([GitHub](https://github.com/Linux-for-ARM/handbook) | [site](https://linux-for-arm.github.io/) | [read online](https://linux-for-arm.github.io/lfa/stable/index.html))
 
@@ -59,7 +59,7 @@ Linux for ARM is a russian guide for building Linux system from scratch from sou
 - Support for multiple ARM family architectures;
 - Online/offile HTML and PDF versions of guide;
 
-### 4. Resistor
+### 3. Resistor
 
 ([GitHub](https://github.com/mskrasnov/resistor) | [crates.io](https://crates.io/crates/resistor-tui))
 
